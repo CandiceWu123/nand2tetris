@@ -1,3 +1,3 @@
 # nand2tetris
-Build a functional computer from zero
+Build a functional computer 
 from coursera
